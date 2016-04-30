@@ -12,6 +12,7 @@ ENTITY comparador IS
          compara     : OUT STD_LOGIC);
 END comparador;
 
+
 ARCHITECTURE behavior OF comparador IS
 BEGIN
 
